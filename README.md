@@ -20,3 +20,13 @@ gradle
  dependencies {
 	    implementation "com.github.amitmahaseth:FancyToast:$release_Version"
 	}
+
+...
+
+ > Step 3
+ 
+ -----Use this method for simple toast----
+ 
+  StylishToaster.simpleToast(Context,message)
+  
+  ....
