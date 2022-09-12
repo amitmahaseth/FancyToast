@@ -1,5 +1,6 @@
 # FancyToast
-> Step 1. Add the JitPack repository to your build file
+ 
+&#x1F535; Add the JitPack repository to your build file
 
 gradle
 
@@ -11,7 +12,7 @@ allprojects {
 	
  ...
  
-  > Step 2. Add the dependency
+  &#x1F535; Add the dependency
   
   val release_Version='1.0.0'
   
