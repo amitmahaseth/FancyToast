@@ -18,5 +18,5 @@ allprojects {
 gradle
   
  dependencies {
-	    implementation 'com.github.amitmahaseth:FancyToast:$release_Version'
+	    implementation "com.github.amitmahaseth:FancyToast:$release_Version"
 	}
