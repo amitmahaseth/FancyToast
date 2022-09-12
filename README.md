@@ -16,5 +16,5 @@ allprojects {
 gradle
   
  dependencies {
-	    implementation 'com.github.amitmahaseth:FancyToast:Tag'
+	    implementation 'com.github.amitmahaseth:FancyToast:$release_Version'
 	}
