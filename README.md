@@ -28,6 +28,7 @@ gradle
  
  -----Use this method for simple toast----
  
-  StylishToaster.simpleToast(Context,message)
-  
+```diff
++> StylishToaster.simpleToast(Context,message)
+```
   ....
