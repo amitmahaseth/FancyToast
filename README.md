@@ -13,6 +13,8 @@ allprojects {
  
   > Step 2. Add the dependency
   
+  val release_Version='1.0.0'
+  
 gradle
   
  dependencies {
