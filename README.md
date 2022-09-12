@@ -1,17 +1,20 @@
 # FancyToast
 > Step 1. Add the JitPack repository to your build file
 
-...gradle
+gradle
+
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+	maven { url 'https://jitpack.io' }
 	}
+	}
+	
  ...
+ 
   > Step 2. Add the dependency
-  ....gradle
+  
+gradle
+  
  dependencies {
-	        implementation 'com.github.amitmahaseth:FancyToast:Tag'
+	    implementation 'com.github.amitmahaseth:FancyToast:Tag'
 	}
-  ...
